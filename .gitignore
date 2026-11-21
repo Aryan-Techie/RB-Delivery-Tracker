@@ -1,0 +1,7 @@
+node_modules/
+dist/
+release/
+*.log
+.toolchains/
+src-tauri/target/
+src-tauri/tracking/
